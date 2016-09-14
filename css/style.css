@@ -4,18 +4,27 @@
 
 
 body {
-  font-family: Helvetica,Arial,sans-serif;
+  background-color: gray;
+  font-family: 'Montserrat',sans-serif;
+  color: #ffffff;
 }
 
 a, a:visited {
-  color: navy;
+  color: #ffcc00;
   text-decoration: none;
 }
 
 a:hover {
-  text-decoration: underline;
+  color: #ff3300;
 }
 
+li {
+  color: white;
+}
+
+p {
+  margin-left: 12px;
+}
 
 
 
@@ -26,11 +35,11 @@ a:hover {
 #header .big {
   font-size:   140%;
   font-weight: bold;
+  color: #ffffff;
 }
 
 #header .small {
   font-size:    90%;
-  color:        grey;
   padding-left: 15px;
 }
 

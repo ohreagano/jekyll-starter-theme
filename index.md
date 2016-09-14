@@ -1,14 +1,12 @@
 ---
 layout: default
-title:  Reagan changed this
+title:  Learning Cool Stuff
 ---
 
 # {{ page.title }}
 
-# h1
-
-_Add your text here_
-
+like how to put photos of baby goats on my webpage & other important things
+![babygoat](http://baby-animals.net/wp-content/gallery/Baby-goat-wallpapers/Little-goat-wallpaper.jpg)
 
 What's Markdown (`.md`)?
 
@@ -17,23 +15,10 @@ in easy-to-read and easy-to-write plain text.
 No angle brackets `<></>` required for
 paragraphs, lists, blockquotes, tables, etc.
 
-
-This is a paragraph (in Markdown). Some more
-text here.
-
-This is another paragraph.
-
-This is a list:
-
-- Orange
-- Apple
-- Blueberry
-
-
-
 Just getting started with Markdown?
 See [The Markdown Reference Book][writekit] for a
 HTML <-> Markdown Quick Reference (Cheat Sheet).
+Or for more detailed syntax references, check out [John Gruber's guide](https://daringfireball.net/projects/markdown/) -- he created markdown
 
 
 [writekit]: http://writekit.github.io
